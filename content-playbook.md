@@ -10,11 +10,7 @@ The simplest format, and it works across every category. A short, clean, aesthet
 
 Works for beauty, food, health, clothing drops, anything. The point is speed and signaling newness, not production value. You are the first person showing this product, so the "new" angle does the heavy lifting.
 
-<figure><img src="example-quickfilm-1.gif" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="example-quickfilm-2.gif" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="example-quickfilm-3.gif" alt=""><figcaption></figcaption></figure>
+<div align="left"><img src="example-quickfilm-1.gif" width="200"><img src="example-quickfilm-2.gif" width="200"><img src="example-quickfilm-3.gif" width="200"></div>
 
 ## AI Content
 
