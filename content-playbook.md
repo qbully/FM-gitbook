@@ -16,7 +16,7 @@ Works for beauty, food, health, clothing drops, anything. The point is speed and
 
 You can generate the video of the product with AI. This is one of the fastest methods available and lets you get content out the door without filming anything. For a first mover play where speed is everything, this is one of the strongest options.
 
-<figure><img src="example-ai.gif" alt=""><figcaption></figcaption></figure>
+<div align="left"><img src="example-ai.gif" width="200"><img src="example-ai-2.gif" width="200"><img src="example-ai-3.gif" width="200"></div>
 
 ## Slideshow Method
 
@@ -24,11 +24,15 @@ If your account has it enabled, you can post a photo slideshow linking the produ
 
 That last part matters. No product needed means you can move immediately on an alert and test far more products than you could if you had to film each one. Only available on some accounts, but if you have it, it is one of the fastest ways to act on a drop.
 
+<div align="left"><img src="example-slideshow-1.png" width="200"><img src="example-slideshow-2.png" width="200"><img src="example-slideshow-3.png" width="200"></div>
+
 ## In-Store Method
 
 Go to the retailer, film the product in store, post the same day. The buttons on the alerts come in handy here, they point you straight to a store that may have the product so you can get to it fast.
 
 This is the method that pairs directly with Beat the Shipping. No waiting on delivery, film it where it sits on the shelf.
+
+<div align="left"><img src="example-instore-1.gif" width="200"><img src="example-instore-2.gif" width="200"><img src="example-instore-3.gif" width="200"></div>
 
 ## The Common Thread
 
