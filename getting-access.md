@@ -1,21 +1,23 @@
-# Getting Access
+# 💎 Getting Access
 
 Getting into First Movers takes a couple minutes. Here's how.
 
-## Start Your Access
+## 1️⃣ Start Your Access
 
-Head to the **get-access** channel and follow the link to get started. It'll take you to our Whop page where you connect your account and unlock the server.
+Head to [💎│get-access](https://discord.com/channels/1440209241192271964/1440403968604901558) and follow the link. It takes you to our Whop page where you connect your account and unlock the server.
 
-## Connect Discord
+## 2️⃣ Connect Discord
 
-During setup you'll connect your Discord account. This is what unlocks the alert channels — once you're connected, the full server opens up and you'll start seeing alerts in the categories you choose.
+During setup you'll connect your Discord account. This unlocks the alert channels — once connected, the full server opens up.
 
-## Pick Your Categories
+## 3️⃣ Pick Your Categories
 
-Once you're in, head to **select-roles** and choose which product categories you want alerts for. This controls what pings you, so you only get notified about the products you care about. (See [Choosing Your Categories](choosing-your-categories.md).)
+Head to [🖱️│select-roles](https://discord.com/channels/1440209241192271964/1448832506706133166) and choose which product categories you want alerts for. See [Choosing Your Categories](choosing-your-categories.md).
 
-## Turn On Notifications
+## 4️⃣ Turn On Notifications
 
-Last step — set your notifications so alerts actually reach you in real time. Speed is the whole point, and an alert you see late is an alert you missed. (See [Setting Up Notifications](notifications.md).)
+Set your notifications so alerts reach you in real time. An alert you see late is an alert you missed. See [Setting Up Notifications](notifications.md).
 
-That's it. Once you're connected, your categories are picked, and notifications are on, you're ready to move on products the moment they drop.
+{% hint style="success" %}
+Connected, categories picked, notifications on — you're ready to move on products the moment they drop.
+{% endhint %}

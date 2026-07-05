@@ -1,32 +1,36 @@
-# Fresh Drops vs Trending
+# 🆕 Fresh Drops vs Trending 🔥
 
-First Movers gives you two kinds of alerts, and they're for two different plays. Knowing the difference tells you how to act on each.
+First Movers gives you two kinds of alerts, for two different plays. Knowing the difference tells you how to act on each.
 
-## Fresh Drops — The Category Channels
+## 🆕 Fresh Drops — The Category Channels
 
 The category channels alert you the moment a brand releases a **brand-new product** — before it's trended, before it's obvious, before anyone's filmed it.
 
-Why act on something with no sales history yet? Because these come from top GMV Max brands with real ad budgets and loyal buyers. A fresh drop from a brand people already love is built to sell. You're getting in at zero — first to film, first to post, first to ride it up.
+Why act on something with no sales history yet? Because these are top GMV Max brands with real ad budgets and loyal buyers. A fresh drop from a brand people already love is all but **guaranteed** to sell. You're getting in at zero — first to film, first to post, first to ride it up.
 
-The same product every affiliate will be fighting over weeks from now was posted here first. Getting in early is the entire advantage.
+{% hint style="info" %}
+The same "hot" product every affiliate will be fighting over weeks from now? It was posted here, **first.** Why chase a saturated product later when you could've started the wave?
+{% endhint %}
 
-## Trending — The Trending Channel
+## 🔥 Trending — Already Moving
 
-**trending-products** surfaces products that are already **racking up sales right out the gate.**
+[🔥│trending-products](https://discord.com/channels/1440209241192271964/1490144082830430298) surfaces products that are **racking up sales right out the gate.** Just released, no competition, already selling — most affiliates haven't even noticed yet.
 
-<figure><img src="../.gitbook/assets/73949-trending-alert.png" alt="Trending alert"><figcaption>A trending alert shows how fast the product is moving</figcaption></figure>
+<figure><img src=".gitbook/assets/73949-trending-alert.png" alt="Trending alert"><figcaption>Trending alerts show how fast the product is moving</figcaption></figure>
 
-Trending alerts include the sales data — how many units sold and how fast — so you can see the momentum. Just released, still early, already selling, and most affiliates haven't noticed yet.
+Trending alerts include the sales data — how many units sold, how fast — so you see the momentum before you commit.
 
 The trending channel is a forum, so you can filter by category to find what's moving in your lane.
 
-<figure><img src="../.gitbook/assets/74034-trending-forum.png" alt="Trending products forum"><figcaption>Filter the trending forum by category</figcaption></figure>
+<figure><img src=".gitbook/assets/74034-trending-forum.png" alt="Trending products forum"><figcaption>Filter the trending forum by category tags</figcaption></figure>
 
-Tools like Kalodata and Fastmoss take days to list new products. By the time they catch up, the early movers have already cashed in. This channel is proven-selling products, early enough to still win.
+{% hint style="info" %}
+Tools like Kalodata and Fastmoss take **days** to list new products. By the time they catch up, the early movers have already cashed in. This channel kills the second-guessing — proven-selling products, early enough to still win.
+{% endhint %}
 
 ## Which to Act On
 
-* **Fresh drops** — higher upside, get in before it trends, bet on the brand
-* **Trending** — lower risk, the product's already proven it sells, you're just early
+* 🆕 **Fresh drops** — higher upside, get in before it trends, bet on the brand
+* 🔥 **Trending** — lower risk, the product's already proven it sells, and you're still early
 
 Both are early. The difference is whether you want to be first on something unproven with more upside, or early on something already converting.
